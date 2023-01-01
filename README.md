@@ -1,2 +1,2 @@
-# ThinkingInC-Book
+# ThinkingInCSharp-Book
 some code examples 
